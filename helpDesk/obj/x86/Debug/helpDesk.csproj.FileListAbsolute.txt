@@ -1,0 +1,8 @@
+D:\Downloads\PROJETOS\helpDesk\helpDesk\helpDesk\bin\Debug\helpDesk.exe
+D:\Downloads\PROJETOS\helpDesk\helpDesk\helpDesk\bin\Debug\helpDesk.pdb
+D:\Downloads\PROJETOS\helpDesk\helpDesk\helpDesk\obj\x86\Debug\helpDesk.frmFormatacao.resources
+D:\Downloads\PROJETOS\helpDesk\helpDesk\helpDesk\obj\x86\Debug\helpDesk.Properties.Resources.resources
+D:\Downloads\PROJETOS\helpDesk\helpDesk\helpDesk\obj\x86\Debug\helpDesk.csproj.GenerateResource.Cache
+D:\Downloads\PROJETOS\helpDesk\helpDesk\helpDesk\obj\x86\Debug\helpDesk.exe
+D:\Downloads\PROJETOS\helpDesk\helpDesk\helpDesk\obj\x86\Debug\helpDesk.pdb
+D:\Downloads\PROJETOS\helpDesk\helpDesk\helpDesk\obj\x86\Debug\helpDesk.csprojResolveAssemblyReference.cache
