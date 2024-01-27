@@ -1,4 +1,4 @@
-﻿namespace helpDesk
+﻿namespace HelpDesk
 {
     partial class frmFormatacao
     {

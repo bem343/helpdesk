@@ -7,17 +7,30 @@ using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 using System.Globalization;
+using static System.Net.Mime.MediaTypeNames;
+using System.IO;
+using System.Runtime.Serialization.Formatters.Binary;
+using System.Drawing.Text;
 
-namespace helpDesk
+namespace HelpDesk
 {
     public partial class frmFormatacao : Form
     {
-        public frmFormatacao()
+
+		public frmFormatacao()
         {
             InitializeComponent();
-        }
 
-        private void btnFormatacao_Click(object sender, EventArgs e)
+			//Carrega as fontes
+			MyFont.load(Properties.Resources._5Computers_In_Love);
+			MyFont.applyff(this.Controls);
+
+			MyFont.select(new FontFamily("Arial"));
+            MyFont.applyff(rtbEntrada);
+            MyFont.applyff(rtbSaida);
+		}
+
+		private void btnFormatacao_Click(object sender, EventArgs e)
         {
             string texto = rtbSaida.Text;
             texto = texto.Replace("\n", " ");

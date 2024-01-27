@@ -6,3 +6,13 @@ D:\Downloads\PROJETOS\helpDesk\helpDesk\helpDesk\obj\x86\Debug\helpDesk.csproj.G
 D:\Downloads\PROJETOS\helpDesk\helpDesk\helpDesk\obj\x86\Debug\helpDesk.exe
 D:\Downloads\PROJETOS\helpDesk\helpDesk\helpDesk\obj\x86\Debug\helpDesk.pdb
 D:\Downloads\PROJETOS\helpDesk\helpDesk\helpDesk\obj\x86\Debug\helpDesk.csprojResolveAssemblyReference.cache
+D:\Downloads\PROJETOS\helpdesk-main\helpDesk\bin\Debug\helpDesk.exe.config
+D:\Downloads\PROJETOS\helpdesk-main\helpDesk\bin\Debug\helpDesk.exe
+D:\Downloads\PROJETOS\helpdesk-main\helpDesk\bin\Debug\helpDesk.pdb
+D:\Downloads\PROJETOS\helpdesk-main\helpDesk\obj\x86\Debug\helpDesk.csproj.AssemblyReference.cache
+D:\Downloads\PROJETOS\helpdesk-main\helpDesk\obj\x86\Debug\helpDesk.frmFormatacao.resources
+D:\Downloads\PROJETOS\helpdesk-main\helpDesk\obj\x86\Debug\helpDesk.Properties.Resources.resources
+D:\Downloads\PROJETOS\helpdesk-main\helpDesk\obj\x86\Debug\helpDesk.csproj.GenerateResource.cache
+D:\Downloads\PROJETOS\helpdesk-main\helpDesk\obj\x86\Debug\helpDesk.csproj.CoreCompileInputs.cache
+D:\Downloads\PROJETOS\helpdesk-main\helpDesk\obj\x86\Debug\helpDesk.exe
+D:\Downloads\PROJETOS\helpdesk-main\helpDesk\obj\x86\Debug\helpDesk.pdb
